@@ -1,0 +1,5 @@
+/* the .module.css file suffix tells Gatsby that this file should be processed as a CSS module, rather than plain CSS */
+.container {
+    margin: 3rem auto;
+    max-width: 600px;
+}
